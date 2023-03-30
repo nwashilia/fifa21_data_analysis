@@ -150,3 +150,9 @@ I also chose to maintain the Euro currency as I realised that this is the base c
 Oceania, Africa and North America are grossly under represented in the youth pool of potentials. Could this be a sign of a decline in a love for football in these areas?
 ### Recommendation
 1. I would recommend you use the advice given on the dashboards as a foundation to build your own team. You would do so many amazing things, with less bottlenecks.
+
+
+## Attributions
+Extra datasets were sourced from other sources to make this analysis possible.
+- Countries and Continents Data: [List of Countries by Continent 2023 (worldpopulationreview.com)](https://worldpopulationreview.com/country-rankings/list-of-countries-by-continent)
+- World leagues data: [GitHub - openfootball/football.json](https://github.com/openfootball/football.json)
