@@ -10,7 +10,7 @@ This project was executed using MS Excel and aimed at analysing the dataset and 
 
 ## Problem Statement
 
-This was a pretty tough analysis[sweatign emoji] to execute. I set out to answer the following questions initial questions:
+This was a pretty tough analysis 😰 to execute. I set out to answer the following questions initial questions:
 1. What teams are the best rated teams in the world?
 2. In the world, what teams are the best in the major team segments (Attack, Midfield and Defence)?
 3. Are there undervalued players around the world and how can you make use of this if you do have these players?
